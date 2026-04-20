@@ -1,0 +1,9 @@
+index.php (Página de login)
+
+login.php (Processamento de segurança)
+
+dashboard.php (Página protegida)
+
+logout.php (Encerrar sessão)
+
+style.css (Visual unificado e animações)
